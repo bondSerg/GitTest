@@ -18,6 +18,9 @@ public class TestGit {
         System.out.println("Это первый commit");
         System.out.println("я хочу чтобы это была ветка мастер");
         
+        System.out.println("Это второй commit");
+        System.out.println("я хочу чтобы это была ветка мастер");
+        
     }
     
 }
